@@ -1,21 +1,22 @@
 # OpenK
 Commercial location recommend system using Deep Learning data analysis <br/>
-딥러닝 데이터 분석을 통한 최적의 상권입지 추천 기술 개발 (Platform)
-<br/><br/>
-
-
+딥러닝 데이터 분석을 통한 최적의 상권입지 추천 기술 개발 (Platform) <br/><br/>
 
 ### 0. 개발환경
   + OS : Ubuntu
   + DBMS : Oracle 11g/xe
   + Backend : Javascript (Node.js)
   + Front : HTML, CSS, Javascript
-  
+
+<br/>
+
 ### 1. OpenK 
 <div>&nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="image" src="https://user-images.githubusercontent.com/90493141/170158089-300182ac-eee0-483e-9986-702ad5659b77.png"></div><br/>
 
   + Mean : 많은 정보들이 모여 하나의 결과를 제공
   + Purpose : 상권입지 정보와 매출 정보를 쉽게 알아볼 수 있는 Web DashBoard 제작
+
+<br/>
 
 ### 2. Category 
   + 상점별 (서울 내 상점별 매출 정보)
@@ -55,6 +56,14 @@ Commercial location recommend system using Deep Learning data analysis <br/>
     + 사용법 : 웹 페이지 내 우측 하단의 원형 버튼 클릭
     + 목적 : XAI관점에서 매출 예측 데이터가 나오게 된 배경에 대한 메뉴얼 제공
 
+<br/>
+
 ### 3. 참고 문서
   + 행정 읍면동 경계 데이터 : https://github.com/vuski/admdongkor/blob/master/ver20220309/ver20220309_emd_vote_simple.geojson
   + 서울 구 지도 : https://upload.wikimedia.org/wikipedia/commons/2/2c/01-00-seoul-ko.svg
+
+<br/>
+
+### 4. 시연 영상 🎥
+https://www.youtube.com/watch?v=WBNOciDR3Zw <br/><br/>
+[![Video Label](http://img.youtube.com/vi/WBNOciDR3Zw/0.jpg)](https://www.youtube.com/watch?v=WBNOciDR3Zw)
