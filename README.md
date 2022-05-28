@@ -1,4 +1,3 @@
-## 🚀 5. Platform
 #### 0. 개발환경
   + OS : Ubuntu
   + DBMS : Oracle 11g/xe
