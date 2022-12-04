@@ -2,7 +2,7 @@
 Commercial location recommend system using Deep Learning data analysis <br/>
 딥러닝 데이터 분석을 통한 최적의 상권입지 추천 기술 개발 (Platform) <br/><br/>
 
-### 0. 개발환경
+### ⚙️ Development Environment
   + OS : Ubuntu
   + DBMS : Oracle 11g/xe
   + Backend : Javascript (Node.js)
@@ -10,7 +10,7 @@ Commercial location recommend system using Deep Learning data analysis <br/>
 
 <br/>
 
-### 1. OpenK 
+### ℹ️ OpenK Meaning
 <div>&nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="image" src="https://user-images.githubusercontent.com/90493141/170158089-300182ac-eee0-483e-9986-702ad5659b77.png"></div><br/>
 
   + Mean : 많은 정보들이 모여 하나의 결과를 제공
@@ -18,7 +18,7 @@ Commercial location recommend system using Deep Learning data analysis <br/>
 
 <br/>
 
-### 2. Category 
+### 🕹️ Category 
   + 상점별 (서울 내 상점별 매출 정보)
     <br/><div><img width="800" alt="스크린샷 2022-05-25 오전 10 37 16" src="https://user-images.githubusercontent.com/90493141/170160344-7351fbc6-78d7-4b1d-80dd-525c6980feb2.png"></div>
     
@@ -58,12 +58,12 @@ Commercial location recommend system using Deep Learning data analysis <br/>
 
 <br/>
 
-### 3. 참고 문서
+### 📑 References
   + 행정 읍면동 경계 데이터 : https://github.com/vuski/admdongkor/blob/master/ver20220309/ver20220309_emd_vote_simple.geojson
   + 서울 구 지도 : https://upload.wikimedia.org/wikipedia/commons/2/2c/01-00-seoul-ko.svg
 
 <br/>
 
-### 4. 시연 영상 🎥
+### 🎥 Demo
 https://www.youtube.com/watch?v=WBNOciDR3Zw <br/><br/>
 [![Video Label](http://img.youtube.com/vi/WBNOciDR3Zw/0.jpg)](https://www.youtube.com/watch?v=WBNOciDR3Zw)
