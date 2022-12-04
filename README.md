@@ -18,7 +18,7 @@ Commercial location recommend system using Deep Learning data analysis <br/>
 
 <br/>
 
-### 🕹️ Category 
+### 🕹️ Feature Introduction
   + 상점별 (서울 내 상점별 매출 정보)
     <br/><div><img width="800" alt="스크린샷 2022-05-25 오전 10 37 16" src="https://user-images.githubusercontent.com/90493141/170160344-7351fbc6-78d7-4b1d-80dd-525c6980feb2.png"></div>
     
